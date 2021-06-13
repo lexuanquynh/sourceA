@@ -8,6 +8,9 @@
 import Foundation
 //import Combine
 
+/*
+ source A push need pull into B
+ */
 class Sample {
     // 1
       class SomeObject {
